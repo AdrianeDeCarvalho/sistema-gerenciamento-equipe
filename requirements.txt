@@ -1,0 +1,7 @@
+greenlet==3.3.1
+markdown-it-py==4.0.0
+mdurl==0.1.2
+Pygments==2.19.2
+rich==14.3.2
+SQLAlchemy==2.0.46
+typing_extensions==4.15.0
