@@ -39,7 +39,7 @@ Este é um projeto de back-end desenvolvido para gerenciar funcionários de uma 
       pip install sqlalchemy rich
    ```
 
-   4. **Inicializando o Banco de Dados:**
-      ```bash
-         python main.py
-      ```
+4. **Inicializando o Banco de Dados:**
+   ```bash
+      python main.py
+   ```
