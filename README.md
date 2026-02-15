@@ -21,4 +21,25 @@ Este é um projeto de back-end desenvolvido para gerenciar funcionários de uma 
 1. **Clone o repositório:**
    ```bash
    git clone [https://github.com/AdrianeDeCarvalho/sistema-gerenciamento-equipe.git](https://github.com/AdrianeDeCarvalho/sistema-gerenciamento-equipe.git)
-   cd sistema-gerenciamento-equipe
+   cd sistema-gerenciamento-equipe ```
+
+2. **Criar e Ativar Ambiente Virtual(venv):**
+   ```bash
+   # Criar o ambiente
+   python -m venv venv
+
+   # Ativar no Windows:
+   .\venv\Scripts\activate
+
+   # Ativar no Linux/Mac:
+   source venv/bin/activate```
+
+3. **Instalas as Dependências:**
+   ```bash
+      pip install -r requirements.txt
+   ```
+
+4. **Inicializando o Banco de Dados:**
+   ```bash
+      python main.py
+   ```
