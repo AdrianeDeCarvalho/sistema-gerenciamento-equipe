@@ -36,7 +36,7 @@ Este é um projeto de back-end desenvolvido para gerenciar funcionários de uma 
 
 3. **Instalas as Dependências:**
    ```bash
-      pip install sqlalchemy rich
+      pip install -r requirements.txt
    ```
 
 4. **Inicializando o Banco de Dados:**
